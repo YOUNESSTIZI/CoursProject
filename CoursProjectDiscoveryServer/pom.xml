@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>coursProject.microservice</groupId>
-	<artifactId>coursPhotos</artifactId>
+	<artifactId>coursprojectDiscoveryServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>coursPhotos</name>
-	<description>Photos pour chaque cours</description>
+	<name>coursprojectDiscoveryServer</name>
+	<description>cest le server host des services</description>
 
 	<properties>
 		<java.version>1.8</java.version>
